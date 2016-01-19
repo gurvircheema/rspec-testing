@@ -1,28 +1,13 @@
-== README
+==README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A very simple approach to BDD testing using RSpec, Capybara using FactoryGirl, Faker, Database Cleaner and Shoulda Matchers. 
 
-Things you may want to cover:
+This application covers the following:
 
-* Ruby version
+* Creating Factories
 
-* System dependencies
+* Model Testing
 
-* Configuration
+* Controller Testing, &
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+* Feature Specs
